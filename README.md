@@ -2,7 +2,7 @@
 
 Several HOWTOs relevant to Data 602
 
-# HOWTO: Load a file in Colab from your Google Drive
+# HOWTO: Load a file into Colab from your Google Drive
 
 * When you are using the browser to view your Google Drive, you can right click on any file in your drive and then “Get shareable link.” You’ll get prompted to share the file, and you should set permissions so that anyone with the URL can read.  That URL will contain the file ID.  
 * Here’s some code that works for accessing a CSV with the IMDb movie reviews, which I’m sharing from my google drive.  The part that appears after “id=“ is the ID, which I obtained from the shareable link. As a result, the following works in colab for anyone.
