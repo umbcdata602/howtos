@@ -1,6 +1,6 @@
 # HOWTOs
 
-This is a bunch of HOWTOs
+Several HOWTOs relevant to Data 602
 
 # HOWTO: Load a file in Colab from your Google Drive
 
