@@ -13,8 +13,7 @@ Click on the icon for the specific course of interest.
 * The left-hand menu bar on this page opens with the configuration from the last time you were here
 * That can be confusing. So remember, The left-hand menu bar has two roots:
 1. Class Name
-    * This expandable menu item is at the top and uses the specific course name
-    * For example: "Data 602 Introduction to Data Analysis and Machine Learning..."
+    * This expandable menu item is at the top and uses the specific course name, e.g., "Data 602 Introduction to Data Analysis and Machine Learning..."
     * This is where you go to create and deploy tests, etc.
 2. Control Panel 
     * This expandable menu item is right underneath "Course Management"
