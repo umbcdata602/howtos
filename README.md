@@ -2,11 +2,6 @@
 
 Several HOWTOs relevant to Data 602
 
-# HOWTO: Load a file into Colab from your Google Drive
-
-* Check out [these instructions](./colab.md)
-* Check out this notebook [colab_data.ipynb](./colab.md)
-
 # HOWTO: Get started with Blackboard
 
 The Blackboard GUI has a zillion options, so it's easy to get lost.
@@ -88,6 +83,11 @@ Deploying a test involves two steps:
     * Click "Make Available" in the dropdown menu to "deploy" the test
         * The text under the test name should change to indicate know it's status
         * For example, it will display the time the test will be made available, etc.
+
+# HOWTO: Load a file into Colab from your Google Drive
+
+* Check out [these instructions](./colab.md)
+* Check out this notebook [colab_data.ipynb](./colab.md)
 
 # HOWTO: Send email
 
