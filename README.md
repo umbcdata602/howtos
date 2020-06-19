@@ -6,9 +6,11 @@ Several HOWTOs relevant to Data 602
 
 * When you are using the browser to view your Google Drive, you can right click on any file in your drive and then “Get shareable link.” You’ll get prompted to share the file, and you should set permissions so that anyone with the URL can read.  That URL will contain the file ID.  
 * Here’s some code that works for accessing a CSV with the IMDb movie reviews, which I’m sharing from my google drive.  The part that appears after “id=“ is the ID, which I obtained from the shareable link. As a result, the following works in colab for anyone.
+```
     import pandas as pd
     url = "https://drive.google.com/uc?export=download&id=1C7Rw06hhv0HgyjN28nMie6iI77F7jaiL"
     df = pd.read_csv(url)
+```
 If you put the URL into a browser that’s running with Incognito mode, then it will download the CSV to your local machine.
 
 # HOWTO: Get started with Blackboard
