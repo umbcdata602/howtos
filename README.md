@@ -18,25 +18,6 @@ The Blackboard GUI has a zillion options, so it's easy to get lost.
     * An expandable menu item under "Course Management" called: "Control Panel"
         * This is where you start Blackboard Collaborate sessions, check student grades, etc.
 
-# HOWTO: Start a Blackboard Collaborate Ultra session
-
-Start in the left-hand menu
-
-* Control Panel > Course Tools > Blackboard Collaborate Ultra
-* Click "Create Session"
-* Add the title of the session, then other options appear
-* Change "Guest role" to "Presenter" in the dropdown menu on the right
-* Change End time to 9:00pm
-* Copy the "Guest link" to the clipboard and email it to all the students
-* Return to the Blackboard Ultra page and click on the session that I just created
-
-# HOWO: Compute/review grades
-
-Start in the left-hand menu
-
-* Control Panel > Grade Center
-* Click "Tests" or "Full Grade Center" to see a list of students and their grades.
-
 # HOWO: Create a test
 
 There are 3 paths to create a test. This can be confusing. In each case, start in the left-hand menu:
@@ -83,6 +64,25 @@ Deploying a test involves two steps:
     * Click "Make Available" in the dropdown menu to "deploy" the test
         * The text under the test name should change to indicate know it's status
         * For example, it will display the time the test will be made available, etc.
+
+# HOWTO: Start a Blackboard Collaborate Ultra session
+
+Start in the left-hand menu
+
+* Control Panel > Course Tools > Blackboard Collaborate Ultra
+* Click "Create Session"
+* Add the title of the session, then other options appear
+* Change "Guest role" to "Presenter" in the dropdown menu on the right
+* Change End time to 9:00pm
+* Copy the "Guest link" to the clipboard and email it to all the students
+* Return to the Blackboard Ultra page and click on the session that I just created
+
+# HOWO: Compute/review grades
+
+Start in the left-hand menu
+
+* Control Panel > Grade Center
+* Click "Tests" or "Full Grade Center" to see a list of students and their grades.
 
 # HOWTO: Load a file into Colab from your Google Drive
 
