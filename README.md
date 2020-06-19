@@ -9,7 +9,7 @@ The Blackboard GUI has a zillion options, so it's easy to get lost. Start with t
 https://blackboard.umbc.edu/ultra/course
 
 * Click on the icon for the specific course of interest.
-    * This will open a popup with a purple "X" in the upper left.
+    * This will open a full-size popup with a purple "X" in the upper left.
     * The left-hand menu bar on this page opens with the configuration from the last time you were here
     * That can be confusing. So remember...
 * The left-hand menu bar has two main roots...
