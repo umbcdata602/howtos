@@ -9,14 +9,16 @@ The Blackboard GUI has a zillion options, so it's easy to get lost. Start with t
 https://blackboard.umbc.edu/ultra/course
 
 * Click on the icon for the specific course of interest.
-    * This will open a full-size popup with a purple "X" in the upper left.
+    * This opens a full-size popup with a purple "X" in the upper left.
     * The left-hand menu bar on this page opens with the configuration from the last time you were here
-    * That can be confusing. So remember...
-* The left-hand menu bar has two main roots...
-    * An expandable menu item with the specific course name: "Data 602 Introduction to Data Analysis and Machine Learning..."
-        * This is where you go to create and deploy tests, etc.
-    * An expandable menu item under "Course Management" called: "Control Panel"
-        * This is where you start Blackboard Collaborate sessions, check student grades, etc.
+    * That can be confusing. So remember, The left-hand menu bar has two main roots:
+1. Class Name
+    * This expandable menu item is at the top and uses the specific course name
+    * For example: "Data 602 Introduction to Data Analysis and Machine Learning..."
+    * This is where you go to create and deploy tests, etc.
+2. Control Panel 
+    * This expandable menu item is right underneath "Course Management"
+    * This is where you start Blackboard Collaborate sessions, check student grades, etc.
 
 # HOWTO: Create a test
 
