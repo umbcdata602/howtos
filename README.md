@@ -17,7 +17,7 @@ Click on the icon for the specific course of interest.
     * This is where you go to create and deploy tests, etc.
 2. Control Panel 
     * This expandable menu item is right underneath "Course Management"
-    * This is where you start Blackboard Collaborate sessions, check student grades, etc.
+    * This is where you go to start a Blackboard Collaborate session, check student grades, etc.
 
 # HOWTO: Create a test
 
