@@ -4,10 +4,10 @@ Several HOWTOs relevant to Data 602
 
 # HOWTO: Get started with Blackboard
 
-The Blackboard GUI has a zillion options, so it's easy to get lost.
+The Blackboard GUI has a zillion options. To keep from getting lost, start with the default URL for "Courses"..
 
-* Start with the default URL for "Courses"
-    * https://blackboard.umbc.edu/ultra/course
+https://blackboard.umbc.edu/ultra/course
+
 * Click on the icon for the specific course of interest.
     * This will open a popup with a purple "X" in the upper left.
     * The left-hand menu bar on this page opens with the configuration from the last time you were here
