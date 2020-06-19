@@ -15,17 +15,18 @@ If you put the URL into a browser that’s running with Incognito mode, then it 
 
 # HOWTO: Get started with Blackboard
 
-It's easy to get lost in the Blackboard GUI. The left-hand menu bar has a zillion options. And sometimes you can navigate to the course content in multiple ways.
+The Blackboard GUI has a zillion options, so it's easy to get lost.
 
 * Start with the default URL for "Courses"
     * https://blackboard.umbc.edu/ultra/course
-* Click on the icon for the course of interest.
+* Click on the icon for the specific course of interest.
     * This will open a popup with a purple "X" in the upper left.
-    * The left-hand menu bar on this page will open up with the configuration from the last time you were here
-* This is where it can get confusing. So remember, the left-hand menu bar has two main roots...
-    * A menu item with the course name: "Data 602 Introduction to Data Analysis and Machine Learning..."
+    * The left-hand menu bar on this page opens with the configuration from the last time you were here
+    * That can be confusing. So remember...
+* The left-hand menu bar has two main roots...
+    * An expandable menu item with the specific course name: "Data 602 Introduction to Data Analysis and Machine Learning..."
         * This is where you go to create and deploy tests, etc.
-    * A menu item under "Course Management" called: "Control Panel"
+    * An expandable menu item under "Course Management" called: "Control Panel"
         * This is where you start Blackboard Collaborate sessions, check student grades, etc.
 
 # HOWTO: Start a Blackboard Collaborate Ultra session
