@@ -18,7 +18,7 @@ The Blackboard GUI has a zillion options, so it's easy to get lost.
     * An expandable menu item under "Course Management" called: "Control Panel"
         * This is where you start Blackboard Collaborate sessions, check student grades, etc.
 
-# HOWO: Create a test
+# HOWTO: Create a test
 
 There are 3 paths to create a test. This can be confusing. In each case, start in the left-hand menu:
 
