@@ -46,7 +46,7 @@ There are 3 paths to create a test. This can be confusing. In each case, start i
 
 # HOWTO: Deploy a test
 
-Deploying a test involves two steps:
+Assuming that you have created a test and configured the test options (above), then deploying a test involves two more steps:
 
 1. To "Add Test" (this is when you can configure test options), start in the left-hand menu bar
     * Class name > "Assignments" **OR** "Course Materials"
