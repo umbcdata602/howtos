@@ -46,17 +46,18 @@ There are 3 paths to create a test. This can be confusing. In each case, start i
 
 # HOWTO: Deploy a test
 
-Assuming that you have created a test and configured the test options (above), then deploying a test involves two more steps:
+Assuming that you have created a test (above), then deploying a test involves two more steps:
 
-1. To "Add Test" (this is when you can configure test options), start in the left-hand menu bar
+1. "Add Test" -- this is also when you can "configure test options"
+    * Start in the left-hand menu bar
     * Class name > "Assignments" **OR** "Course Materials"
         * On the **TOP** menu bar, click: Assessments > Test
             * If you already created a test, it should appear in the "Add an Existing Test" list
         * Select the test you want to add, then click "Submit"
-        * Modify the test options (e.g. time it's visible, etc.) -- you can edit these later if you like
+        * Modify the test options (e.g. time it's displayed, etc.) -- you can edit these later if you like
         * Click "Submit"
         * Now the test should appear in the "Assignments", so proceed to step 2.
-2. To "Make Available" (i.e., "deploy), assuming you have completed step 1, then start in the left menu bar:
+2. "Make Available" (i.e., "deploy), assuming you have completed step 1, then start in the left menu bar:
     * Class name > "Assignments" (**NOT** "Course Materials")
     * You should see the test you want to deploy in the list on this page. If it's not there, then go back to step 1.
     * The dropdown arrow/menu next to the test name should include "Make Available" (third from the top)
