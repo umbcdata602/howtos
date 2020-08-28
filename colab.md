@@ -5,8 +5,8 @@ How to import data into a Colab session.
 
 ## A single shared file in your Google Drive
 
-If you choose the "Get shareable link" option for a file in your Google Drive, 
-that link contains a unique ID that will allow anyone can load the file into their Colab session.  
+If you choose the "Get shareable link" option for a file in your Google Drive,
+that link contains a unique ID that will allow anyone can load the file into their Colab session.
 For example, here's a shareable link (it is not a working example):
 
     https://drive.google.com/file/d/1C7Rw06hhv0HgyjN28nMie6iI77F7hewoL/view?usp=sharing
