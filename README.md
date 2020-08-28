@@ -2,6 +2,10 @@
 
 Several HOWTOs relevant to Data 602
 
+# HOWTO: Load data into Colab
+
+* [colab.md](./colab.md)
+
 # HOWTO: Get started with Blackboard
 
 The Blackboard GUI has a zillion options, so it's easy to get lost. Start with the default URL for "Courses"..
